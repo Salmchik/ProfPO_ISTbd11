@@ -3,4 +3,3 @@
 ФИ: Бычков Илья
 содержание: отчет по лр№2 с помощью github
 изменения: 111
-changes: change VM in Linuxx. User bych.
